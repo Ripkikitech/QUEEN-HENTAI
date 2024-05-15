@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94767939688', 'Dinuwa Official²⁰²³', true],
-  ['94767939688', 'Dinuwa Official²⁰²³', true], 
+  ['94767939688', 'Ripkiki Official²⁰²³', true],
+  ['94767939688', 'Ripkiki Official²⁰²³', true], 
   [''] 
 ] //Number of owners
 
-global.mods = ['94767939688','94767939688'] 
-global.prems = ['94767939688', '94767939688', '94767939688']
+global.mods = ['233598012585','233598012585'] 
+global.prems = ['233598012585', '233598012585', '94767939688']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -47,20 +47,20 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '💝 Queen Hentai 💝'
+global.botname = '💝 Rip Kiki 💝'
 global.premium = 'true'
-global.packname = '💝 Queen Hentai 💝 Created By 💝 Dinuwa Official²⁰²³ 💝' 
-global.author = '💝 Dinuwa Official²⁰²³ 💝' 
-global.igfg = '▢ Follow on Facebook\https://www.facebook.com/profile.php?id=61551915615888\n' 
-global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fgsc = 'https://github.com/dinuwah/QUEEN-HENTAI' 
-global.fgyt = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fgpyp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
+global.packname = '💝 Rip Kiki 💝 Created By 💝 Dinuwa Official²⁰²³ 💝' 
+global.author = '💝 Ripkiki Official²⁰²³ 💝' 
+global.igfg = '▢ Follow on Facebook\https://www.facebook.com/profile.php?id=100093105473918\n' 
+global.dygp = 'https://chat.whatsapp.com/CVWTXQBI7C3FA1'
+global.fgsc = 'https://github.com/ripkiki/Rip-Kiki' 
+global.fgyt = 'https://chat.whatsapp.com/CVWTXQBI7C3FA1'
+global.fgpyp = 'https://chat.whatsapp.com/CVWTXQBI7C3FA1'
 global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg' 
 
 
-global.wait = '*💝 _Waiting Bro Uploading by 💝 Queen Hentai 💝..._*'
-global.rwait = '🇱🇰'
+global.wait = '*💝 _Waiting Bro Uploading by 💝 Rip Kiki 💝..._*'
+global.rwait = '🇬🇭'
 global.dmoji = '🤣'
 global.done = '👍'
 global.error = '👎' 
